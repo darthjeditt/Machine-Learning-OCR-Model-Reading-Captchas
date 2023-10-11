@@ -45,3 +45,8 @@ pip install tensorflow keras numpy matplotlib
 
 ## Conclusion
 The "OCR Model for Reading Captchas" project demonstrates the training of an OCR model to recognize characters in captcha images. By preprocessing the dataset, building the model, and training it on the data, we can achieve accurate recognition of the captcha text. The trained model can be used for various applications involving captcha recognition and text extraction from images.
+
+## Contributing
+I would love your help! Contribute by forking the repo and opening pull requests. Please ensure that your code passes the existing tests and linting, and write tests to test your changes if applicable.
+
+All pull requests should be submitted to the main branch.
